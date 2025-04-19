@@ -1,7 +1,7 @@
 Package: nycflights23
 Title: Flights and Other Useful Metadata for NYC Outbound Flights in
         2023
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
     person("Chester", "Ismay", , "chester.ismay@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-2820-2547")),
     person("Simon P.", "Couch", , "simonpatrickcouch@gmail.com", role = "aut"),
@@ -22,7 +22,7 @@ LazyData: true
 LazyDataCompression: bzip2
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-03-06 16:53:04 UTC; chester
+Packaged: 2025-04-18 17:28:31 UTC; chesterismay
 Author: Chester Ismay [aut, cre] (<https://orcid.org/0000-0003-2820-2547>),
   Simon P. Couch [aut],
   Hadley Wickham [aut],
@@ -31,4 +31,4 @@ Author: Chester Ismay [aut, cre] (<https://orcid.org/0000-0003-2820-2547>),
   Dennis Irorere [ctb]
 Maintainer: Chester Ismay <chester.ismay@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-03-09 01:30:02 UTC
+Date/Publication: 2025-04-19 06:20:06 UTC
